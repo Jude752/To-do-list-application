@@ -28,4 +28,4 @@ A simple to-do list application with features like adding tasks, marking them as
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/to-do-list-application.git
+    https://github.com/Jude752/To-do-list-application.git
